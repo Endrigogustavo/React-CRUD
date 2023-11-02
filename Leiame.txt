@@ -11,6 +11,12 @@ https://apexcharts.com/docs/react-charts/
 React+NodeJs CRUD
 https://www.youtube.com/watch?v=y5NvOade3sk
 
+React+Python
+https://www.youtube.com/watch?v=YZIKsurfMQU
+
+React+Python Django
+https://www.youtube.com/watch?v=eXrwF4LXF5c
+
 
 Para instalar o npm
 npm install -g npm
