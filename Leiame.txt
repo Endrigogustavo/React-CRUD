@@ -1,15 +1,23 @@
 LINKS
+
+https://youtube.com/playlist?list=PLvGbhQIuFefYF9WxDLnv3cxeGqnkE1WXs&si=k-DvT_ROD4RdBFrA
+
+
+
 React+PHP CRUD
 https://www.youtube.com/watch?v=yxnm109XdYI
 
 React+JSON
 https://www.youtube.com/watch?v=8nkVXiGH-7I
+https://www.youtube.com/watch?v=v2CFJGfUIgQ
 
 Framework Grafico
 https://apexcharts.com/docs/react-charts/
 
 React+NodeJs CRUD
 https://www.youtube.com/watch?v=y5NvOade3sk
+https://youtu.be/G5EIh77grY0?si=Scc6e7REMsMrK6h_
+https://www.youtube.com/watch?v=CcEi4rqeASw
 
 React+Python
 https://www.youtube.com/watch?v=YZIKsurfMQU
